@@ -9,7 +9,7 @@ This respository collects the programs for each Pacific Coast Gravity Meeting si
 - [PCGM 35 (USU, 2019)](https://utahstatephysics.wixsite.com/35jimisenbergpcgm)
 - [PCGM 34 (Caltech, 2018)](http://www.tapir.caltech.edu/~pcgm34/)
 - [PCGM 33 (UCSB, 2017)](http://web.physics.ucsb.edu/~relativity/PCGM33/)
-- [PCGM 32 (CSUF, 2016)](https://web.archive.org/web/20200813084349/https://physics.fullerton.edu/gwpac/news/176-pcgm-2016)
+- [PCGM 32 (CSUF, 2016)](https://github.com/geoffrey4444/PCGM/blob/8d303ada5ac8a9bdc133cce66a566a9bf22dcf81/Programs/PCGM-32.pdf)
 - [PCGM 31 (U Oregon, 2015)](https://ccom.ucsd.edu/~pcgm31/program-printable.html) 
 - [PCGM 30 (UCSD, 2014)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-30.pdf)
 - [PCGM 29 (UCD, 2013)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-29.pdf)
