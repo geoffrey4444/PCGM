@@ -1,5 +1,9 @@
-# Pacific Coast Gravity Meeting Archive
-This respository collects the programs for each Pacific Coast Gravity Meeting since its founding in 1985. Links for PCGM 1 - PCGM 30 are originally from [an archive hosted at UCSD](https://ccom.ucsd.edu/~pcgm31/archive/), while more recent links are also listed as part of the American Physical Society Division of Gravity's [archive of regional meetings](https://dgrav.org/regional-gravity-meetings/). This archive stores PDFs of each program in the the Programs folder, as a backup in case any of the links below ever stop working.
+# Jim Isenberg Pacific Coast Gravity Meeting Archive
+This respository collects the programs for each Pacific Coast Gravity Meeting since its founding in 1985. Starting with PCGM 35, the meeting has been renamed the Jim Isenberg Pacific Coast Gravity Meeting.
+
+Links for PCGM 1 - PCGM 30 are originally from [an archive hosted at UCSD](https://ccom.ucsd.edu/~pcgm31/archive/), while more recent links are also listed as part of the American Physical Society Division of Gravity's [archive of regional meetings](https://dgrav.org/regional-gravity-meetings/). 
+
+This respository stores PDFs of each program in the the Programs folder, as a backup in case any of the links below ever stop working.
 
 ## Links to PCGM programs
 - [PCGM 39 (Caltech, 2023)](http://www.tapir.caltech.edu/~pcgm39/)
