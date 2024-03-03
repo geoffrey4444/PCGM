@@ -1,7 +1,7 @@
 # Jim Isenberg Pacific Coast Gravity Meeting Archive
 This respository collects the programs for each Pacific Coast Gravity Meeting since its founding in 1985. Starting with PCGM 35, the meeting has been renamed the Jim Isenberg Pacific Coast Gravity Meeting.
 
-Links for PCGM 1 - PCGM 30 are originally from [an archive hosted at UCSD](https://ccom.ucsd.edu/~pcgm31/archive/), while more recent links are also listed as part of the American Physical Society Division of Gravity's [archive of regional meetings](https://dgrav.org/regional-gravity-meetings/). 
+Links for PCGM 1 - PCGM 30 are originally from [an archive hosted at UCSD](https://ccom.ucsd.edu/~pcgm31/archive/) (except for PCGM 22), while more recent links are also listed as part of the American Physical Society Division of Gravity's [archive of regional meetings](https://dgrav.org/regional-gravity-meetings/). 
 
 This respository stores PDFs of each program in the the [Programs](https://github.com/geoffrey4444/PCGM/tree/main/Programs) folder, as a backup in case any of the links below ever stop working.
 
@@ -24,7 +24,7 @@ This respository stores PDFs of each program in the the [Programs](https://githu
 - [PCGM 25 (Oregon, 2009)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-25.pdf)
 - [PCGM 24 (UCSB, 2008)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-24.pdf)
 - [PCGM 23 (Caltech, 2007)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-23.pdf)
-- [PCGM 22 (UCSB, 2006)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-22.pdf)
+- [PCGM 22 (UCSB, 2006)](https://web.physics.ucsb.edu/~relativity/22nd-PCGM.html)
 - [PCGM 21 (Oregon, 2005)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-21.pdf)
 - [PCGM 20 (Caltech, 2004)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-20.pdf)
 - [PCGM 19 (Utah, 2003)](https://ccom.ucsd.edu/~pcgm31/archive/PCGM-19.pdf)
