@@ -6,6 +6,7 @@ Links for PCGM 1 - PCGM 30 are originally from [an archive hosted at UCSD](https
 This respository stores PDFs of each program in the the [Programs](https://github.com/geoffrey4444/PCGM/tree/main/Programs) folder, as a backup in case any of the links below ever stop working.
 
 ## Links to PCGM programs
+- [PCGM 41 (CSUF, 2025)](https://physics.fullerton.edu/gwpac/_resources/pdfs/PCGM41Program.pdf)
 - [PCGM 40 (UCSB, 2024)](https://web.physics.ucsb.edu/~PCGM40/images/PCGM40Schedule.pdf)
 - [PCGM 39 (Caltech, 2023)](http://www.tapir.caltech.edu/~pcgm39/)
 - [PCGM 38 (UC Davis, 2022)](https://qmap.ucdavis.edu/events/pcgm-2022)
